@@ -2,7 +2,7 @@
 - 👀 I’m interested in FullStack Development
 - 🌱 I’m currently learning Java, Python, ReactJS, Node.js, MongoDB, MySQL
 - 💞️ I’m looking to collaborate on above topics
-- 📫 How to reach me ... mail: supersaiyan3108@gmail.com
+- 📫 How to reach me ... mail: rohanbangera3108@gmail.com
 
 <!---
 rohan-bangera/rohan-bangera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
